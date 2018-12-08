@@ -4,7 +4,7 @@ A very simple script that generates an AFPS ram disk in macOS Mojave (I have not
 The RamDisk will be deleted after ejection.
 
 # Set a cache on RamDisk
-You can use it with chromium :
+You can use it with any other app; eg with Chromium :
 * Open Terminal app ;
 * `rm -rf ~/Library/Caches/Chromium/Default` ; It will remove the cache on your HDD.
 * `ln -s /Volumes/RamDisq ~/Library/Caches/Chromium/Default` ; will link the cache with the ram disk. The cache will be destroyed on reboot.
