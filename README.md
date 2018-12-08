@@ -10,3 +10,7 @@ You can use it with chromium :
 - Open Terminal app ;
 - `rm -rf ~/Library/Caches/Chromium/Default` ; It will remove the cache on your HDD.
 - `ln -s /Volumes/RamDisq  ~/Library/Caches/Chromium/Default` ; will link the cache with the ram disk. The cache will be destroyed on reboot.
+
+# App for MacOS
+
+https://bitbucket.org/Ya7yaL/ramdisq/get/10e7a06bf84b.zip
